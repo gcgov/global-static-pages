@@ -1,4 +1,4 @@
-#Terms and Conditions of Use
+# Terms and Conditions of Use
 
 *	Payments to the Garrett County Government, henceforth referred to as the County, can be made using a credit or debit card. Some services may allow payment with an electronic withdraw from a checking account.
 *	Payments are posted to the County's accounting system and will appear on the web site within one business day following payment posting.
